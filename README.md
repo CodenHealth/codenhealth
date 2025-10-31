@@ -32,8 +32,9 @@ Founded and developed by [**Agya Boat**](https://github.com/agyaboat) in **July 
 ## 🛠️ Technology Stack
 
 We build using:
-- **Vue 3 / Nuxt 3**
+- **Vue** / **Nuxt**
 - **Laravel / Node.js**
+- **FastAPI** / **Django**
 - **Redis, Docker, MySQL**
 - **Open API standards**
 - **Rust and Python** for low-level tooling and data analytics
